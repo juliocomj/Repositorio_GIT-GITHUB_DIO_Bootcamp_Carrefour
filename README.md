@@ -2,5 +2,5 @@
 Desafio do projeto Dio Git/GitHub
 
 ## Faça parte você também
-[DIO | Codifique i seu futuro global agora](https://web.dio.me/home)
+[DIO | Codifique o seu futuro global agora](https://web.dio.me/home)
 
